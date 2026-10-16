@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="PF02/PF02.csproj" />
+  <Project Path="TestPF02/TestPF02.csproj" Id="6534393d-8131-44f5-aa18-b8b9b79c9ebd" />
 </Solution>
