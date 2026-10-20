@@ -4,11 +4,17 @@ using System.Text;
 
 namespace PF02
 {
-    internal class Funciones
+    public class Funciones
     {
+
         public long CalcularFactorial(int n)
         {
-            return 0;
+            throw new System.NotImplementedException();
+        }
+
+        public bool EsContrasenyaValida(string contrasenya)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
